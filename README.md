@@ -1,5 +1,5 @@
 # Hi there, I'm Vanshika 👋  
-I’m a final-year IT student at IET DAVV, Indore, passionate about building full-stack web applications using the MERN stack. I enjoy crafting seamless user experiences and solving real-world problems through technology.
+I’m passionate about building full-stack web applications using the MERN stack. I enjoy crafting seamless user experiences and solving real-world problems through technology.
 ## About Me  
 - 🌱 Currently enhancing my skills in **Full Stack Development** and **Data Structures & Algorithms**  
 - 🚀 Building projects with the **MERN stack** to strengthen my practical skills  
